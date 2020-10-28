@@ -1,0 +1,9 @@
+.carousel-item{
+    margin: 100px;
+    max-width: 50%;
+    height: auto;
+}
+
+.card{
+    margin-top: 10%;
+}
